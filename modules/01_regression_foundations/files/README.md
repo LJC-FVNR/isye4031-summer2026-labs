@@ -15,6 +15,11 @@ Work through the notebooks in this order:
 7. `06_residual_diagnostics.ipynb`
 8. `07_transfer_to_new_problem.ipynb`
 
+Homework templates are in `homework/`:
+
+- `homework/HW1_statistical_review.ipynb`
+- `homework/HW2_simple_linear_regression.ipynb`
+
 The first package setup cell may take a little time the first time it runs in a browser session.
 
 JupyterLite stores your edits in this browser. Download your completed notebooks before switching devices, clearing browser storage, or submitting work.
