@@ -2,7 +2,7 @@
 
 Open `00_START_HERE.ipynb` first.
 
-This is the browser-runnable version of the regression foundations tutorial. The notebooks use the same ideas as the web book, but every code cell can run directly in JupyterLite.
+This is the browser-runnable version of the regression foundations tutorial. The notebooks combine lecture concepts, software practice, and homework support, and every code cell can run directly in JupyterLite.
 
 Work through the notebooks in this order:
 
