@@ -7,13 +7,13 @@ This is the browser-runnable version of the regression foundations tutorial. The
 Work through the notebooks in this order:
 
 1. `00_START_HERE.ipynb`
-2. `00_forecasting_context.ipynb`
-3. `01_statistical_review.ipynb`
-4. `00_setup_check.ipynb`
-5. `01_slr_workflow.ipynb`
-6. `02_intervals_and_prediction.ipynb`
-7. `03_residual_diagnostics.ipynb`
-8. `04_transfer_to_new_problem.ipynb`
+2. `01_forecasting_context.ipynb`
+3. `02_statistical_review.ipynb`
+4. `03_python_setup_and_data.ipynb`
+5. `04_slr_workflow.ipynb`
+6. `05_inference_intervals_prediction.ipynb`
+7. `06_residual_diagnostics.ipynb`
+8. `07_transfer_to_new_problem.ipynb`
 
 The first package setup cell may take a little time the first time it runs in a browser session.
 
