@@ -1,0 +1,20 @@
+# ISYE 4031 Regression Foundations
+
+Open `00_START_HERE.ipynb` first.
+
+This is the browser-runnable version of the regression foundations tutorial. The notebooks use the same ideas as the web book, but every code cell can run directly in JupyterLite.
+
+Work through the notebooks in this order:
+
+1. `00_START_HERE.ipynb`
+2. `00_forecasting_context.ipynb`
+3. `01_statistical_review.ipynb`
+4. `00_setup_check.ipynb`
+5. `01_slr_workflow.ipynb`
+6. `02_intervals_and_prediction.ipynb`
+7. `03_residual_diagnostics.ipynb`
+8. `04_transfer_to_new_problem.ipynb`
+
+The first package setup cell may take a little time the first time it runs in a browser session.
+
+JupyterLite stores your edits in this browser. Download your completed notebooks before switching devices, clearing browser storage, or submitting work.
