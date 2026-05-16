@@ -2,6 +2,8 @@
 
 This repository hosts browser-runnable Python lab modules for ISYE 4031.
 
+Students can work in the browser and export both the completed `.ipynb` notebook and a PDF report from JupyterLite.
+
 ## Student Links
 
 - [01 Regression Foundations](https://ljc-fvnr.github.io/isye4031-summer2026-labs/modules/01_regression_foundations/lab/index.html?path=00_START_HERE.ipynb)
@@ -26,4 +28,3 @@ Then open:
 ```text
 http://127.0.0.1:8899/modules/01_regression_foundations/lab/index.html?path=00_START_HERE.ipynb
 ```
-

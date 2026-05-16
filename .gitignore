@@ -1,8 +1,8 @@
 public/
 **/_output/
 **/*.tgz
+**/.jupyterlite.doit.db
 **/__pycache__/
 **/.ipynb_checkpoints/
 .DS_Store
 Thumbs.db
-

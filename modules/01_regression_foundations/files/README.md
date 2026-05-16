@@ -18,3 +18,5 @@ Work through the notebooks in this order:
 The first package setup cell may take a little time the first time it runs in a browser session.
 
 JupyterLite stores your edits in this browser. Download your completed notebooks before switching devices, clearing browser storage, or submitting work.
+
+For homework-style work, submit both the completed `.ipynb` notebook and a PDF report. After running all cells, use `File` -> `Save and Export Notebook As` -> `PDF` to download a report view. If the PDF option is unavailable in your browser, use the notebook interface and print the page to PDF.
