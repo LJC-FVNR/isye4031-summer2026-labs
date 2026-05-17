@@ -1,0 +1,12 @@
+name: isye4031-jupyterlite-build
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.11
+  - pip
+  - pip:
+      - jupyterlite-core[all]>=0.7,<0.8
+      - jupyterlite-pyodide-kernel>=0.7,<0.8
+      - jupyterlite-pdf-exporter>=0.1,<0.2
+      - nbformat>=5.10
+      - nbconvert>=7.16
