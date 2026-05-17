@@ -1,0 +1,14 @@
+{
+  "LiteBuildConfig": {
+    "contents": [
+      "files"
+    ],
+    "output_dir": "_output"
+  },
+  "jupyter-config-data": {
+    "appName": "ISYE 4031 Diagnostics and Variable Selection",
+    "appVersion": "Summer 2026",
+    "contentsStorageName": "ISYE 4031 Diagnostics and Variable Selection JupyterLite",
+    "settingsStorageName": "ISYE 4031 Diagnostics and Variable Selection JupyterLite Settings"
+  }
+}
