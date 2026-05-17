@@ -9,4 +9,4 @@ You may complete homework in JupyterLite and export a PDF report, or you may com
 
 If you use JupyterLite, download both the completed `.ipynb` file and a PDF report before submitting or clearing browser storage. Complete the student information fields at the top of each notebook before exporting.
 
-For screenshots or uploaded images that should appear in the PDF, use the `IPython.display.Image` code cell pattern included in the AI Usage Report section. Run the image display cell and confirm the output is visible before exporting the PDF.
+For screenshots or uploaded images that you choose to include in the PDF, use the `IPython.display.Image` code cell pattern included in the AI Usage Report section. Run the image display cell and confirm the output is visible before exporting the PDF.
