@@ -44,6 +44,10 @@ jobs:
             if [ -f "$module/jupyter_lite_config.json" ]; then
               name=$(basename "$module")
               jupyter lite build --lite-dir "$module" --output-dir "$PWD/public/modules/$name"
+              if [ -d "$module/files" ]; then
+                rm -rf "$PWD/public/modules/$name/files"
+                cp -R "$module/files" "$PWD/public/modules/$name/files"
+              fi
             fi
           done
 
@@ -63,4 +67,3 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-
