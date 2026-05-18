@@ -1,0 +1,14 @@
+{
+  "LiteBuildConfig": {
+    "contents": [
+      "files"
+    ],
+    "output_dir": "_output"
+  },
+  "jupyter-config-data": {
+    "appName": "ISYE 4031 Student Onboarding",
+    "appVersion": "Summer 2026",
+    "contentsStorageName": "ISYE 4031 Student Onboarding JupyterLite",
+    "settingsStorageName": "ISYE 4031 Student Onboarding JupyterLite Settings"
+  }
+}
