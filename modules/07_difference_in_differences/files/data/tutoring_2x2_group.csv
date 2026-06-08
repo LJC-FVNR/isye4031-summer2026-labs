@@ -1,0 +1,5 @@
+group,year,treated,post,mean_score
+Control,2025,0,0,70.0
+Control,2026,0,1,73.0
+Treated,2025,1,0,75.0
+Treated,2026,1,1,82.0
